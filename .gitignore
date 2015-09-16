@@ -1,0 +1,3 @@
+# Ignora los ficheros *.exe y *.cab
+*.exe
+*.cab
